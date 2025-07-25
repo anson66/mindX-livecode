@@ -1,0 +1,19 @@
+[
+  {
+    "student_id": "STUDENT4",
+    "student_name": "Student New",
+    "attendance": [
+      { "date": "2025-07-01", "status": "ABSENT" },
+      { "date": "2025-07-02", "status": "ATTEND" },
+      { "date": "2025-07-03", "status": "ABSENT" }
+    ],
+    "assignments": [
+      { "date": "2025-07-01", "name": "HW 1", "submitted": false },
+      { "date": "2025-07-08", "name": "HW 2", "submitted": false }
+    ],
+    "contacts": [
+      { "date": "2025-07-10", "status": "FAILED" },
+      { "date": "2025-07-12", "status": "FAILED" }
+    ]
+  }
+] 
